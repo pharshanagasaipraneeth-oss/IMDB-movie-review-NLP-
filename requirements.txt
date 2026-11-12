@@ -1,0 +1,9 @@
+
+streamlit
+tensorflow==2.21.0
+numpy
+pandas
+gensim
+nltk
+scikit-learn
+scipy
